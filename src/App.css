@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.loginhead {
+	/* text-align: center !important; */
+	align-items: center !important;
+	/* justify-content: space-between !important; */
 }
+
+.crudtitle {
+	text-align: center;
+	align-items: center;
+}
+
+.main_div {
+	display: flex !important;
+	flex-direction: column !important;
+}
+.main1 {
+	display: flex !important;
+	flex-direction: column !important;
+}
+
+/* .frlabel{
+  margin-right: 20px;
+} */
